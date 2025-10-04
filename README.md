@@ -58,11 +58,9 @@ Each model's performance was evaluated using accuracy, precision, recall, and F1
 
 
 3.Run the Jupyter notebook:
-
-jupyter notebook 
-    ```bash
-    heart_attack_prediction_using_different_ml_models.ipynb
-    ```
+```bash
+jupyter notebook heart_attack_prediction_using_different_ml_models.ipynb
+``` 
 
 ---
 
