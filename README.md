@@ -53,12 +53,15 @@ Each model's performance was evaluated using accuracy, precision, recall, and F1
    
 2.Install the required libraries:
 
+```bash
 pip install -r requirements.txt
 
 
 3.Run the Jupyter notebook:
 
-jupyter notebook heart_attack_prediction_using_different_ml_models.ipynb
+jupyter notebook 
+```bash
+heart_attack_prediction_using_different_ml_models.ipynb
 
 ---
 
